@@ -1,2 +1,2 @@
-# Analysis-of-Wildfires-due-to-Climate-change
+# Machine-Learning-On-Climate-Change
 This repository is related to the academic minor project - I by Alish Samuel, Hritik Mohan Dobriyal, Ankit Kumar and Neha Jamatia of Uttarakhand Technical University, Dehradun, India for the award of the undergraduate degree of Bachelor of Technology in Computer Science and Engineering. This project includes two steps: Studying the relationship between Climate change and wildfires and predicting the burned area by the wildfire. 
